@@ -8,6 +8,11 @@ Model Used : ***RNN-LSTM, CNN-1D***
 
 Source of the dataset is from [kaggle.com](https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction).
 
+### *Deployment link :*
+Frontend : https://fakejobprediction.herokuapp.com/ <br>
+backend : https://fakejobprediction-app.herokuapp.com
+
+
 ## *Assessed by :*
 - <a href="https://github.com/Sardiirfan27">Sardi Irfansyah</a>
 - <a href="https://github.com/afifai">Afif A. Iskandar</a>
