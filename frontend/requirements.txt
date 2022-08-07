@@ -1,0 +1,6 @@
+requests
+streamlit
+pandas
+Pillow
+nltk
+tensorflow-cpu
