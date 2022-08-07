@@ -10,7 +10,7 @@ Source of the dataset is from [kaggle.com](https://www.kaggle.com/datasets/shiva
 
 ### *Deployment link :*
 Frontend : https://fakejobprediction.herokuapp.com/ <br>
-backend : http://fakejobprediction-app.herokuapp.com/v1/models/fake_job_prediction:predict
+Backend : http://fakejobprediction-app.herokuapp.com/v1/models/fake_job_prediction:predict
 
 
 ## *Assessed by :*
